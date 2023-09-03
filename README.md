@@ -13,7 +13,6 @@ This project demonstrates the use of K-means clustering to group retail store cu
 - [Algorithm Details](#algorithm-details)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact Information](#contact-information)
 - [References](#references)
