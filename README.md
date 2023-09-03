@@ -1,5 +1,3 @@
-Certainly, here's a README file for your GitHub repository that includes all the information we discussed:
-
 ```markdown
 # Customer Segmentation with K-means Clustering
 
